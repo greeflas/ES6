@@ -1,4 +1,4 @@
-// const supported by all browsers
+// supported by all new browsers
 
 const MATH = {
     PI: 3.14159

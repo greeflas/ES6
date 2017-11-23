@@ -1,5 +1,7 @@
 'use strict';
 
+// supported by all new browsers
+
 var browsers = ['Chrome', 'Firefox', 'Safari'];
 
 var _iteratorNormalCompletion = true;

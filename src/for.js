@@ -1,4 +1,4 @@
-// const supported by all browsers
+// supported by all new browsers
 
 let browsers = ['Chrome', 'Firefox', 'Safari'];
 
