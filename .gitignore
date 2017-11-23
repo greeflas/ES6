@@ -1,0 +1,8 @@
+# WebStorm project files
+.idea
+
+# Node vendor dir
+/node_modules
+
+# npm files
+npm-debug.log
